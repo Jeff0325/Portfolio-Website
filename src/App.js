@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "./components/Nav";
 import CircularGallery from "./components/CircularGallery";
-import { hyperspeedPresets } from './components/hyperspeedPresets';
 import Aurora from './components/AuroraBackground';
 import Profile from './components/Profile';
 import avatar from './assets/download.png';
